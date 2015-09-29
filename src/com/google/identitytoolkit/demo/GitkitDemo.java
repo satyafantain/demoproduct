@@ -110,7 +110,6 @@ public class GitkitDemo extends Activity implements OnClickListener {
 
 
 
-
   private void showSignInPage() {
     setContentView(R.layout.welcome);
     Button button = (Button) findViewById(R.id.sign_in);
